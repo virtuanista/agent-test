@@ -1,0 +1,16 @@
+{
+  "name": "agent-test",
+  "version": "0.1.0",
+  "description": "Agente de investigacion autonomo (escritorio): Electron + backend Python",
+  "private": true,
+  "main": "electron/main.js",
+  "scripts": {
+    "postinstall": "node scripts/setup.js",
+    "setup": "node scripts/setup.js",
+    "start": "electron .",
+    "test": "node scripts/run-tests.js"
+  },
+  "devDependencies": {
+    "electron": "44.4.5"
+  }
+}

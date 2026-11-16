@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ui-ux",
+    "goal": "investiga como mejorar la calidad de la UI/UX con los modelos de hoy día, las generaciones de los diseños web son muy pobres y la gente ha debido publicar cositas que mejoren",
+    "expected": [
+      ["shadcn"],
+      ["v0"],
+      ["lovable", "bolt.new"],
+      ["taste-skill", "taste skill", "avoid-ai-design", "unslop"],
+      ["scroll-craft", "scroll-world", "scrolltrigger", "gsap"]
+    ]
+  },
+  {
+    "id": "factual",
+    "goal": "¿Quién ganó el Mundial de fútbol de 2022 y cómo fue la final?",
+    "expected": [["argentina"], ["francia", "france"], ["3-3", "3–3", "3 a 3"], ["penales", "penaltis", "penalties"]]
+  },
+  {
+    "id": "code",
+    "goal": "Escribe una función en Python que invierta una lista enlazada simple y explica su complejidad",
+    "expected": [["def "], ["o(n)"], ["next"], ["o(1)"]]
+  },
+  {
+    "id": "reciente",
+    "goal": "¿Cuáles son los modelos de lenguaje open-weight más destacados que se pueden usar hoy y para qué sirven?",
+    "expected": [["qwen"], ["llama"], ["mistral"], ["gpt-oss"], ["deepseek"]]
+  },
+  {
+    "id": "nicho",
+    "goal": "¿Qué metabuscadores de código abierto se pueden autoalojar para tener búsqueda privada y cómo se comparan?",
+    "expected": [["searxng"], ["whoogle"], ["yacy"], ["4get", "librey", "librex", "mojeek"]]
+  }
+]
